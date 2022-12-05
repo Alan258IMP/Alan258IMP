@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+I am Alan Li, a physics graduate interested in programming.
+
+I love learning new skills and trying out new things. I have been particularly interested in machine learning since I found its applications in various fields of physics (such as quantum information and space weather forecasting) back when I was in university. I found the applications of machine learning even more exciting in the industry than in academia, which is why I joined AiCore, an industry-informed hands-on accelerator for AI and Machine Learning training. I eagerly want to see the power of machine learning in the real world, continuously develop new skills by following the progress of this fast-moving field, and master as many skills as I can in my twenties.
+
+📫 alanegg@outlook.com
 
 <!--
 **Alan258IMP/Alan258IMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
