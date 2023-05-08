@@ -3,7 +3,10 @@
 I am Alan Li, a physics graduate interested in programming.
 
 Since my second year of university, I noticed that various fields of physics (such as particle physics and space physics) have shifted from building physics models to training black-box models with large amounts of experimental data. To gain more insight into the field of Data Science & Machine Learning, I self-studied the “Methods for Data Science” course at the Mathematics department in Year 3, and have since been more and more interested in the applications of ML.
+
 After I graduated, I further honed my skills by completing an industry-informed Data Science and Machine Learning training course at AiCore. Through this course, I gained hands-on experience working with libraries such as Sklearn, PyTorch, and TensorFlow, as well as building databases with PostgreSQL and AWS. After finishing this course, I am ready to apply my skills in the industry. I am eager to see the power of machine learning in the real world, continuously develop new skills by following the progress of this fast-moving field, and master as many skills as I can in my twenties.
+
+[Linkedin Profile](https://www.linkedin.com/in/alan-li-988085173/)
 
 📫 alanegg@outlook.com
 
